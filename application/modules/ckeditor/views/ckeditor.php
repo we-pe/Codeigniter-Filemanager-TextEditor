@@ -77,7 +77,7 @@
 
 <footer>
 	<div class="container">
-		<p><a href="https://github.com/we-pe/AngularJSRequireJSExample">&hearts; Me on github</a></p>
+		<p><a href="https://github.com/we-pe/Codeigniter-Filemanager-TextEditor">&hearts; Me on github</a></p>
 	</div>
 </footer>
 
