@@ -75,11 +75,11 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<h3><i class="fa fa-folder-open"></i> Responsive File Manager</h3>
-					<p>Using Responsive File Manager to manage media files on your hosting.</p>
+					<p>Using <a href="http://www.responsivefilemanager.com/">Responsive File Manager</a> to manage media files on your hosting.</p>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<h3><i class="fa fa-pencil"></i> TinyMCE &amp; CKEditor</h3>
-					<p>Integrated with famous WYSIWYG, TinyMCE and CKEditor.</p>
+					<p>Integrated with famous WYSIWYG, <a href="https://www.tinymce.com/">TinyMCE</a> and <a href="http://ckeditor.com/">CKEditor</a>.</p>
 				</div>
 			</div>
 		</div>
