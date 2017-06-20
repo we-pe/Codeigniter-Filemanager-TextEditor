@@ -71,7 +71,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-4">
 					<h3><i class="fa fa-check-circle"></i> Codeigniter 3.1.4 Built</h3>
-					<p>Built by using <a href="http://startbootstrap.com">Codeigniter 3.1.4</a> version with HMVC method. Make sure you're up to date with Codeigniter HMVC documentation!</p>
+					<p>Built by using <a href="https://codeigniter.com/">Codeigniter 3.1.4</a> version with HMVC method. Make sure you're up to date with Codeigniter HMVC documentation!</p>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<h3><i class="fa fa-folder-open"></i> Responsive File Manager</h3>
